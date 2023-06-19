@@ -6,7 +6,7 @@ Notebook example code for PyLabRobot
 * [Plate indices](Indexing_Resources.ipynb)
 
 ## To-do
-* CSV worklists
+* Worklists
 * Volume trackers
 * Robot decks
     * OT-2
