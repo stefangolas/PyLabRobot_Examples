@@ -1,5 +1,6 @@
 # PyLabRobot Examples
 
-Examples
-* Saving and reloading decks
-* Plate indices
+Notebook example code for PyLabRobot
+* [Saving and reloading decks](saving_deck)
+
+* [Plate indices](Indexing_Resources.ipynb)
