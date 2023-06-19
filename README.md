@@ -8,6 +8,7 @@ Notebook example code for PyLabRobot
 ## To-do
 * Worklists
 * Volume trackers
+* Move resources
 * Robot decks
     * OT-2
     * Tecan EVO
