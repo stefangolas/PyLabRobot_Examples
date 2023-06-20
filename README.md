@@ -13,6 +13,7 @@ These notebooks can be run in the simulator
 ## Simulator notebooks
 * Worklists
 * Volume trackers
+* 
 * Move resources
 * Error handling
 * Robot decks
