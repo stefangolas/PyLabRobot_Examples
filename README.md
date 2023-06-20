@@ -1,8 +1,9 @@
 # PyLabRobot Examples
+This repo provides Jupyter notebooks of PyLabRobot example code
+
 
 ## Simulator notebooks
 
-Notebook example code for PyLabRobot
 * [Saving and reloading decks](saving_deck)
 
 * [Well indexing](Indexing_Resources.ipynb)
