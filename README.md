@@ -1,5 +1,7 @@
 # PyLabRobot Examples
 
+## Simulator notebooks
+
 Notebook example code for PyLabRobot
 * [Saving and reloading decks](saving_deck)
 
