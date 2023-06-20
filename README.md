@@ -12,8 +12,8 @@ These notebooks can be run in the simulator
 # To-do
 ## Simulator notebooks
 * Worklists
-* Volume trackers
-* 
+* Volume tracking
+* Composition modeling
 * Move resources
 * Error handling
 * Robot decks
