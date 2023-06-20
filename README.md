@@ -12,15 +12,16 @@ These notebooks can be run in the simulator
 # To-do
 ## Simulator notebooks
 * Worklists
-* Volume tracking
-* Composition modeling
-* Move resources
+* Moving labware
+* Liquid handling parameters (flowrate, air blowout, air transport)
 * Error handling
 * Robot decks
     * OT-2
     * Tecan EVO
     * Hamilton STAR
- 
+* Volume tracking
+* Composition modeling
+
 ## Robot-specific notebooks
 These notebooks provide example code that is specific to a particular robot
 
