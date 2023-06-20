@@ -5,7 +5,8 @@ Notebook example code for PyLabRobot
 
 * [Well indexing](Indexing_Resources.ipynb)
 
-## To-do
+# To-do
+## Simulator notebooks
 * Worklists
 * Volume trackers
 * Move resources
@@ -14,3 +15,9 @@ Notebook example code for PyLabRobot
     * OT-2
     * Tecan EVO
     * Hamilton STAR
+ 
+## Robot-specific notebooks
+These notebooks provide example code that is specific to a particular robot
+
+### Hamilton STAR
+* TADM curves
