@@ -3,6 +3,7 @@ This repo provides Jupyter notebooks of PyLabRobot example code
 
 
 ## Simulator notebooks
+These notebooks can be run in the simulator
 
 * [Saving and reloading decks](saving_deck)
 
