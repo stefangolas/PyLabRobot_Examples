@@ -13,6 +13,7 @@ These notebooks can be run in the simulator
 ## Simulator notebooks
 * Worklists
 * Moving labware
+* Plate patterns
 * Liquid handling parameters (flowrate, air blowout, air transport)
 * Error handling
 * Robot decks
