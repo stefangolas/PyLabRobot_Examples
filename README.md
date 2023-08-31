@@ -6,8 +6,11 @@ This repo provides Jupyter notebooks of PyLabRobot example code
 These notebooks can be run in the simulator
 
 * [Saving and reloading decks](saving_deck)
+**Run this first **
 
 * [Well indexing](Indexing_Resources.ipynb)
+
+
 
 # To-do
 ## Simulator notebooks
