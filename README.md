@@ -10,8 +10,8 @@ These notebooks can be run in the simulator
 * [Well indexing](Indexing_Resources.ipynb)
 
 ## Tutorial Walkthrough
-1. Run `pip install pylabrobot[simulation]`
-2. Run `jupyter notebook` from the command line
+1. Run `pip install pylabrobot[simulation]` from the command line
+2. Run `jupyter notebook`
 3. Navigate to `pylabrobot_examples/saving_deck/save_deck.ipynb`
 4. Run the cells up to `lh.deck.save('save_deck.json')`
 
